@@ -1,0 +1,23 @@
+@media screen and (max-width:415px) {
+    .content{
+        width: 300px;
+        border-radius: 20px;
+        
+    }
+    .content h1{
+        font-size: 1rem;
+    
+    }
+    .content input{
+        width: 250px;
+        margin-left: 25px;
+        height: 40px;
+    }
+    p{
+        font-size:0.7rem;
+    }
+   button{
+    margin-left: 100px;
+    margin-top: 30px;
+   }
+}
